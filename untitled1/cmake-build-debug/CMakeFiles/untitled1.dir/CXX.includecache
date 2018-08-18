@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/vicky/CLionProjects/untitled/main.cpp
-stdio.h
--
-conio.h
+/home/vicky/CLionProjects/untitled1/main.cpp
+iostream
 -
 
