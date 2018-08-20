@@ -1,8 +1,12 @@
 #include <iostream>
+#include <bits/link.h>
+#include "vector"
 
 using namespace std;
 
-int main() {
+int main()
+
+{
 
 //    int arr[]={1,2,3};
 //
@@ -11,17 +15,11 @@ int main() {
 
 //    string s;
 //    cin>>s;
-//    cout<<s;
+//    c
 
-        string s="vicky";
-        string s1="umesh";
+//        Vector<Integer>vector1=new Vector;
 
-        if(s1==s){
-            cout<<"wellen good";
-        }
-        else{
-            cout<<"haha";
-        }
+
 
     return 0;
 }
