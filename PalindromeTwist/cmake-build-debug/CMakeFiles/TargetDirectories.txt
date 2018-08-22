@@ -1,0 +1,3 @@
+/home/vicky/CLionProjects/PalindromeTwist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vicky/CLionProjects/PalindromeTwist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vicky/CLionProjects/PalindromeTwist/cmake-build-debug/CMakeFiles/PalindromeTwist.dir

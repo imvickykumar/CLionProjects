@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PalindromeTwist.dir/main.cpp.o  -o PalindromeTwist 
