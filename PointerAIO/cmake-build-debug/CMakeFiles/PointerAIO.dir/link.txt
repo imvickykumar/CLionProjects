@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PointerAIO.dir/main.cpp.o  -o PointerAIO 
