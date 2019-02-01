@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exp.dir/main.cpp.o  -o exp 
