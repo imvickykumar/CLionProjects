@@ -1,0 +1,3 @@
+/home/vicky/CLionProjects/ThisUnderstanding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vicky/CLionProjects/ThisUnderstanding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vicky/CLionProjects/ThisUnderstanding/cmake-build-debug/CMakeFiles/ThisUnderstanding.dir
